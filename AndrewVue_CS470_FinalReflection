@@ -1,0 +1,21 @@
+Andrew Vue
+SNHU CS 470
+
+Experiences and Strengths: Explain how this course will help you in reaching your professional goals.
+What skills have you learned, developed, or mastered in this course to help you become a more marketable candidate in your career field?
+The skills I learned and developed in this course to help me become more marketable is the development of APIs and hosting a site on the cloud.
+Describe your strengths as a software developer.
+My strengths as a software developer are my ability to research and find solutions for my questions. It is important to be perseverant and a critical thinker when working as a software developer.
+Identify the types of roles you are prepared to assume in a new job.
+I believe I am prepared to assume roles that are related to junior software development in the web development space.
+Planning for Growth: Synthesize the knowledge you have gathered about cloud services.
+Identify various ways that microservices or serverless may be used to produce efficiencies of management and scale in your web application in the future. Consider the following:
+How would you handle scale and error handling?
+How would you predict the cost?
+What is more cost predictable, containers or serverless?
+Explain several pros and cons that would be deciding factors in plans for expansion.
+What roles do elasticity and pay-for-service play in decision making for planned future growth?
+Scale considers projection and forecasting for usage. When it comes to error handling will need to be broken into smaller pieces a
+Predicting the cost of serverless applications can be another task. It is difficult to predict the exact cost of the operations. Most of the services that we use follow a pay-as-you-go model, in which you pay for what have you used and for how long you have used the service.
+
+Microservices and Serverless are the future of modern tech. A single application may consist of multiple microservices and short-lived functions that interact with a range of other resources. Given this level of complexity, it can be difficult to trace requests across your environment, understand dependencies, and isolate the root cause of errors. To optimize and troubleshoot serverless microservices, teams need visibility into how their functions and services interact with each other.
