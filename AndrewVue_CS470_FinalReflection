@@ -1,5 +1,6 @@
 Andrew Vue
 SNHU CS 470
+Presentation: https://www.youtube.com/watch?v=7fxl1BEuvWw
 
 Experiences and Strengths: Explain how this course will help you in reaching your professional goals.
 What skills have you learned, developed, or mastered in this course to help you become a more marketable candidate in your career field?
@@ -17,5 +18,4 @@ Explain several pros and cons that would be deciding factors in plans for expans
 What roles do elasticity and pay-for-service play in decision making for planned future growth?
 Scale considers projection and forecasting for usage. When it comes to error handling will need to be broken into smaller pieces a
 Predicting the cost of serverless applications can be another task. It is difficult to predict the exact cost of the operations. Most of the services that we use follow a pay-as-you-go model, in which you pay for what have you used and for how long you have used the service.
-
 Microservices and Serverless are the future of modern tech. A single application may consist of multiple microservices and short-lived functions that interact with a range of other resources. Given this level of complexity, it can be difficult to trace requests across your environment, understand dependencies, and isolate the root cause of errors. To optimize and troubleshoot serverless microservices, teams need visibility into how their functions and services interact with each other.
